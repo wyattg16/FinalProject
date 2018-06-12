@@ -55,4 +55,8 @@ int main(void)
 			printf("%f Feet is %f Meters\n", f, m);
 			}
 		}
+		else 
+		{
+			printf("Units entered incorrectly try again\n");
+		}
 }
